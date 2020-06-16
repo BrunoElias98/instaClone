@@ -9,4 +9,4 @@
 
 ## Preview
 
-![Alt Text](./preview)
+![Alt Text](../preview.gif)
